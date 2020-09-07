@@ -1,10 +1,12 @@
 import React from "react";
 import Navbar from "../Navbar";
 import image from "./Assets/images/Photo.jpg";
+import "../Pages/Assets/css/style.css";
 
 
 const thumbNail = {
-  maxWidth: '20%',
+  maxWidth: '15%',
+  paddingTop: '2px',
   
 };
 
@@ -33,6 +35,8 @@ function About() {
                 </main>
 
                 <footer id="pageFooter">
+
+                    <br />
                     <div className="rightCol">
                         <p><a href= "LinkedIn:{url}" title="LinkedIn">LinkedIn: franklin-onyeabo</a></p>
                         <p><a href="Github:{github}" title="Github">Github: fonyeabo12</a></p>

@@ -1,14 +1,16 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import "./style.css";
+import "../Pages/Assets/css/style.css";
 
 // Depending on the current path, this component sets the "active" class on the appropriate navigation link item
 function Navbar() {
   return (
+    <header>
+      <div className="wrapper">
+
+        <div id="name">Chidi Franklin Onyeabo</div>
+
     <nav className="navbar navbar-expand-lg navbar-light bg-light">
-      <Link className="navbar-brand" to="/">
-        Chidi Franklin Onyeabo
-      </Link>
       <div>
         <ul className="navbar-nav">
           <li className="nav-item">
@@ -42,7 +44,13 @@ function Navbar() {
         </ul>
       </div>
     </nav>
+
+      </div>
+
+    </header>
   );
 }
 
 export default Navbar;
+
+

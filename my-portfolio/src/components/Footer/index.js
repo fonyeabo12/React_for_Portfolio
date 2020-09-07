@@ -1,10 +1,14 @@
 import React from "react";
-import "./style.css";
+import "../Pages/Assets/css/style.css";
 
 function Footer() {
+  let copy = "\u00a9";
+
   return (
     <footer className="footer">
-      <span>Copyright Frankblack</span>
+      <span>
+        <small>{copy} Copyright Frankblack</small>
+        </span>
     </footer>
   );
 }
