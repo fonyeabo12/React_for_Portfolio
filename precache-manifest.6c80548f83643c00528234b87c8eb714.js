@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "932135f5133dffb2cdb5",
-    "url": "/static/css/main.ccb118e9.chunk.css"
+    "revision": "82cdbc71a8318b7777c1",
+    "url": "/static/css/main.18907df9.chunk.css"
   },
   {
-    "revision": "932135f5133dffb2cdb5",
+    "revision": "82cdbc71a8318b7777c1",
     "url": "/static/js/main.cf0bd8ab.chunk.js"
   },
   {
@@ -12,11 +12,11 @@ self.__precacheManifest = [
     "url": "/static/js/runtime~main.a8a9905a.js"
   },
   {
-    "revision": "470a9934a328f8124c13",
-    "url": "/static/css/2.61319182.chunk.css"
+    "revision": "753fe7f166aefbf40d49",
+    "url": "/static/css/2.c31bf72a.chunk.css"
   },
   {
-    "revision": "470a9934a328f8124c13",
+    "revision": "753fe7f166aefbf40d49",
     "url": "/static/js/2.11710b8d.chunk.js"
   },
   {
@@ -36,7 +36,7 @@ self.__precacheManifest = [
     "url": "/static/media/Car Maintenance Logger.2996b76a.jpg"
   },
   {
-    "revision": "76ac8d4bc1c39d75414932dffdd83080",
+    "revision": "4175f897f4a9186bdd937704c8ed4a79",
     "url": "/index.html"
   }
 ];
